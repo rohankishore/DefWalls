@@ -1,7 +1,7 @@
 # DefWalls
 Collection of every default macOS, Windows, Android, iOS Wallpapers (May include Android UIs too)
 
-#How to download?
+# How to download?
 You can download the entire collection as .zip by:
 
 `Code --> Download ZIP`
